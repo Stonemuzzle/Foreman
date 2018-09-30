@@ -1,5 +1,7 @@
 # Foreman #
 
+*Forked from github.com/w-flo/Foreman, which is a fork of bitbucket.org/Nicksaurus/foreman* 
+
 This is a simple program for generating flowcharts for production lines in the game [Factorio](https://www.factorio.com/).
 
 Requires .Net 4.0 or higher and Visual C++ 2012 to run. Also works in mono, but the GUI has a few problems (missing scroll bars etc).
